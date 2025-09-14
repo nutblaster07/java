@@ -1,3 +1,4 @@
+package test;
 class Test{
     private int a=10;
     String str="Hello";
